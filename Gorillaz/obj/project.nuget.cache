@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SztYQcDE3axWsZfyRlbwD4GYm96VLUDWkLUYEUtDnywKgWfDtHbX+RABm+jlDpxy96gsd5/xWEokKdvMDNT3FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\steve\\source\\repos\\Gorillaz\\Gorillaz\\Gorillaz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steve\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

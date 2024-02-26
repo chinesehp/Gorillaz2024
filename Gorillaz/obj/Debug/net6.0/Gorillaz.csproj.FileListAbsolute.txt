@@ -1,0 +1,56 @@
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Gorillaz.exe
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Gorillaz.deps.json
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Gorillaz.runtimeconfig.json
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Gorillaz.dll
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Gorillaz.pdb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\obj\Debug\net6.0\Gorillaz.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\obj\Debug\net6.0\Gorillaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\obj\Debug\net6.0\Gorillaz.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\obj\Debug\net6.0\Gorillaz.AssemblyInfo.cs
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\obj\Debug\net6.0\Gorillaz.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\obj\Debug\net6.0\Gorillaz.csproj.CopyComplete
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\obj\Debug\net6.0\Gorillaz.dll
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\obj\Debug\net6.0\refint\Gorillaz.dll
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\obj\Debug\net6.0\Gorillaz.pdb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\obj\Debug\net6.0\Gorillaz.genruntimeconfig.cache
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\obj\Debug\net6.0\ref\Gorillaz.dll
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Fonts\DefaultFont.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Backgrounds\bgImg.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Backgrounds\enterKey.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Backgrounds\escapeKey.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Backgrounds\scoreBackDrop.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Backgrounds\skies.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Backgrounds\tabKey.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Buildings\building1.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Buildings\building2.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Buildings\building3.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Buildings\building4.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Buttons\menuBtn.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Buttons\quitBtn.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Buttons\retryBtn.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Buttons\scoreBtn.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Buttons\startBtn.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Sprites\Bomb_2.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Sprites\explode.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Sprites\leftTurret.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Images\Sprites\rightTurret.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Sounds\Music\inGameMusic.ogg
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Sounds\Music\inGameMusic.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Sounds\Music\mainMenuMusic.ogg
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Sounds\Music\mainMenuMusic.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Sounds\Music\Tekken 3 OST PlayStation - Character select.ogg
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Sounds\Music\Tekken 3 OST PlayStation - Character select.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Sounds\Sound Effects\Artillery+Burst.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Sounds\Sound Effects\Explosion+1.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Sounds\Sound Effects\sfx_hit.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Sounds\Sound Effects\sfx_point.xnb
+C:\Users\steve\source\repos\Gorillaz\Gorillaz\bin\Debug\net6.0\Content\Sounds\Sound Effects\Ta Da-SoundBible.com-1884170640.xnb

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Fonts/DefaultFont.spritefont</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Backgrounds/bgImg.jpg</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Backgrounds/enterKey.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Backgrounds/escapeKey.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Backgrounds/scoreBackDrop.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Backgrounds/skies.jpg</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Backgrounds/tabKey.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Buildings/building1.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Buildings/building2.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Buildings/building3.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Buildings/building4.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Buttons/menuBtn.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Buttons/quitBtn.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Buttons/retryBtn.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Buttons/scoreBtn.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Buttons/startBtn.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Sprites/Bomb_2.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Sprites/explode.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Sprites/leftTurret.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Images/Sprites/rightTurret.png</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Sounds/Music/inGameMusic.mp3</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Sounds/Music/mainMenuMusic.mp3</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Sounds/Music/Tekken 3 OST PlayStation - Character select.mp3</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Sounds/Sound Effects/Artillery+Burst.wav</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Sounds/Sound Effects/Explosion+1.wav</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Sounds/Sound Effects/sfx_hit.wav</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Sounds/Sound Effects/sfx_point.wav</File>
+    <File>C:/Users/steve/source/repos/Gorillaz/Gorillaz/Content/Sounds/Sound Effects/Ta Da-SoundBible.com-1884170640.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
